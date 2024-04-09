@@ -36,6 +36,7 @@ html , body{
 }
 .latest-stories a{
     text-decoration: none;
+    color: blue;
 }
 #latest-stories-list{
     display: flex;
